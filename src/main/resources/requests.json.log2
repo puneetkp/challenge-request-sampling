@@ -1,0 +1,9 @@
+{"requestID": 1, "userID": "c6c38192-58f1-4cab-a447-349fcaf287c8", "customerID": 1, "userAgent": "Firefox", "url": "http://theadex.com", "timestamp": 1470652067}
+{"requestID": 2, "userID": "71e0614c-9965-41e3-8b62-c21bf26c06f1", "customerID": 2, "userAgent": "Chrome", "url": "http://theadex.com", "timestamp": 1470652068}
+{"requestID": 3, "userID": "f8f9b51b-f13e-4379-abf8-0850779cc483", "customerID": 1, "userAgent": "Safari", "url": "http://theadex.com", "timestamp": 1470652070}
+{"requestID": 4, "userID": "71e0614c-9965-41e3-8b62-c21bf26c06f1", "customerID": 1, "userAgent": "Chrome", "url": "http://theadex.com", "timestamp": 1470652073}
+{"requestID": 5, "userID": "f8f9b51b-f13e-4379-abf8-0850779cc483", "customerID": 2, "userAgent": "Safari", "url": "http://theadex.com", "timestamp": 1470652076}
+{"requestID": 6, "userID": "6680565c-00b4-4daf-8156-8d6497780b42", "customerID": 2, "userAgent": "Chrome", "url": "http://theadex.com", "timestamp": 1470652085}
+{"requestID": 7, "userID": "c6c38192-58f1-4cab-a447-349fcaf287c8", "customerID": 3, "userAgent": "Firefox", "url": "http://theadex.com", "timestamp": 1470652092}
+{"requestID": 8, "userID": "f8f9b51b-f13e-4379-abf8-0850779cc483", "customerID": 2, "userAgent": "Safari", "url": "http://theadex.com", "timestamp": 1470652105}
+{"requestID": 9, "userID": "71e0614c-9965-41e3-8b62-c21bf26c06f1", "customerID": 3, "userAgent": "Chrome", "url": "http://theadex.com", "timestamp": 1470652162}
